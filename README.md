@@ -1,4 +1,5 @@
 # Delete windows temp files
 
 **Optional: You can also involve prefetch files for deletion**
-`Do you also want to delete files inside prefetch directory?[y / n]:`
+
+![image](https://github.com/user-attachments/assets/0d29f471-480f-4bd3-a2e7-4f84a71f06ce)
