@@ -12,7 +12,7 @@ set /p delPrefetch="Do you also want to delete files inside prefetch directory?[
 echo.
 
 if %delPrefetch%==y (
-    set tempfiles[2]=C:\Windows\Prefetch\*
+    set tempfiles[2]=C:\Windows\prefetch\*
     set /a len=2
 ) else if %delPrefetch%==n (
     echo Prefetch files will not be involed for deletion
